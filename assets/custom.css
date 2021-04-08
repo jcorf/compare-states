@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,300;1,400&family=Martel:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tinos:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.navbar {
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  margin-left: -10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+  font-family: 'Space Mono', monospace;
+  font-size: smaller;
+}
+
+.selected {
+  opacity: 1 !important;
+
+  stroke: black;
+  stroke-width: 3px;
+  stroke-opacity: 1;
+
+}
+/* margin left moves down */
+.VerticalText {
+  width:300px; /* moves it down */
+  margin-right: 100px;
+  margin-bottom: 200px;
+  padding-right: 200px;
+  padding-left: 100px;
+  padding-bottom: 300px;
+  float: left;
+  font-family: 'Karla', sans-serif;
+  z-index: -1;
+  position: absolute;
+  margin-top: 100px;
+  -moz-transform: rotate(270deg) translate(0px,0px); /* Firefox 3.5+ */
+  -o-transform: rotate(270deg) translate(0px,0px); /* Opera 10.5 */
+  -webkit-transform: rotate(270deg) translate(0px,0px); /* Safari 3.1+, Chrome */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); /* IE 6,IE 7 */
+  -ms-filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); /* IE 8 */
+  -ms-transform: rotate(270deg) translate(0px,0px); /* IE 9+ */
+}
+
+.titles {
+  margin-left: 300px
+}
+
+.legend {
+  margin-left: 450px;
+}
+
+.option1 {
+  background: #D56F3E;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+}
+
+.option2 {
+  background: #28587B;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+}
+
+.navbar-right {
+  float: right;
+  font-weight: 700;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: white;
+  border: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.intro {
+  max-width : 50%;
+  break-word: break-word;
+  padding-left: 25%;
+  text-align: justify;
+  padding-top: 15%;
+  padding-bottom: 20%;
+}

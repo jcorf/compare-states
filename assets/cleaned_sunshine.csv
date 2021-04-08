@@ -1,0 +1,577 @@
+,city,month,value
+0,Austin,jan,163.8
+1,Austin,feb,169.3
+2,Austin,mar,205.9
+3,Austin,apr,205.8
+4,Austin,may,227.1
+5,Austin,jun,285.5
+6,Austin,jul,317.2
+7,Austin,aug,297.9
+8,Austin,sep,233.8
+9,Austin,oct,215.6
+10,Austin,nov,168.3
+11,Austin,dec,153.5
+12,Denver,jan,215.3
+13,Denver,feb,211.1
+14,Denver,mar,255.6
+15,Denver,apr,276.2
+16,Denver,may,290.0
+17,Denver,jun,315.3
+18,Denver,jul,325.0
+19,Denver,aug,306.4
+20,Denver,sep,272.3
+21,Denver,oct,249.2
+22,Denver,nov,194.3
+23,Denver,dec,195.9
+24,San Francisco,jan,185.9
+25,San Francisco,feb,207.7
+26,San Francisco,mar,269.1
+27,San Francisco,apr,309.3
+28,San Francisco,may,325.1
+29,San Francisco,jun,311.4
+30,San Francisco,jul,313.3
+31,San Francisco,aug,287.4
+32,San Francisco,sep,271.4
+33,San Francisco,oct,247.1
+34,San Francisco,nov,173.4
+35,San Francisco,dec,160.6
+36,Portland,jan,85.6
+37,Portland,feb,116.4
+38,Portland,mar,191.1
+39,Portland,apr,221.1
+40,Portland,may,276.1
+41,Portland,jun,290.2
+42,Portland,jul,331.9
+43,Portland,aug,298.1
+44,Portland,sep,235.7
+45,Portland,oct,151.7
+46,Portland,nov,79.3
+47,Portland,dec,63.7
+48,Seattle,jan,69.8
+49,Seattle,feb,108.8
+50,Seattle,mar,178.4
+51,Seattle,apr,207.3
+52,Seattle,may,253.7
+53,Seattle,jun,268.4
+54,Seattle,jul,312.0
+55,Seattle,aug,281.4
+56,Seattle,sep,221.7
+57,Seattle,oct,142.6
+58,Seattle,nov,72.7
+59,Seattle,dec,52.9
+60,Nashville,jan,139.6
+61,Nashville,feb,145.2
+62,Nashville,mar,191.3
+63,Nashville,apr,231.5
+64,Nashville,may,261.8
+65,Nashville,jun,277.7
+66,Nashville,jul,279.0
+67,Nashville,aug,262.1
+68,Nashville,sep,226.4
+69,Nashville,oct,216.8
+70,Nashville,nov,148.1
+71,Nashville,dec,130.6
+72,Boise,jan,109.3
+73,Boise,feb,151.9
+74,Boise,mar,238.6
+75,Boise,apr,281.4
+76,Boise,may,335.5
+77,Boise,jun,351.6
+78,Boise,jul,399.8
+79,Boise,aug,358.8
+80,Boise,sep,303.6
+81,Boise,oct,238.1
+82,Boise,nov,119.6
+83,Boise,dec,105.2
+84,Charlotte,jan,173.3
+85,Charlotte,feb,180.3
+86,Charlotte,mar,234.8
+87,Charlotte,apr,269.6
+88,Charlotte,may,292.1
+89,Charlotte,jun,289.2
+90,Charlotte,jul,290.0
+91,Charlotte,aug,272.9
+92,Charlotte,sep,241.4
+93,Charlotte,oct,230.5
+94,Charlotte,nov,178.4
+95,Charlotte,dec,168.5
+96,Salt Lake City,jan,127.4
+97,Salt Lake City,feb,163.1
+98,Salt Lake City,mar,241.9
+99,Salt Lake City,apr,269.1
+100,Salt Lake City,may,321.7
+101,Salt Lake City,jun,360.5
+102,Salt Lake City,jul,380.5
+103,Salt Lake City,aug,352.5
+104,Salt Lake City,sep,301.1
+105,Salt Lake City,oct,248.1
+106,Salt Lake City,nov,150.4
+107,Salt Lake City,dec,113.1
+108,Phoenix,jan,256.0
+109,Phoenix,feb,257.2
+110,Phoenix,mar,318.4
+111,Phoenix,apr,353.6
+112,Phoenix,may,401.0
+113,Phoenix,jun,407.8
+114,Phoenix,jul,378.5
+115,Phoenix,aug,360.8
+116,Phoenix,sep,328.6
+117,Phoenix,oct,308.9
+118,Phoenix,nov,256.0
+119,Phoenix,dec,244.8
+120,Boston,jan,163.4
+121,Boston,feb,168.4
+122,Boston,mar,213.7
+123,Boston,apr,227.2
+124,Boston,may,267.3
+125,Boston,jun,286.5
+126,Boston,jul,300.9
+127,Boston,aug,277.3
+128,Boston,sep,237.1
+129,Boston,oct,206.3
+130,Boston,nov,143.2
+131,Boston,dec,142.3
+132,Houston,jan,143.4
+133,Houston,feb,155.0
+134,Houston,mar,192.5
+135,Houston,apr,209.8
+136,Houston,may,249.2
+137,Houston,jun,281.3
+138,Houston,jul,293.9
+139,Houston,aug,270.5
+140,Houston,sep,236.5
+141,Houston,oct,228.8
+142,Houston,nov,168.3
+143,Houston,dec,148.7
+144,Omaha,jan,167.8
+145,Omaha,feb,157.6
+146,Omaha,mar,206.4
+147,Omaha,apr,230.1
+148,Omaha,may,277.1
+149,Omaha,jun,314.0
+150,Omaha,jul,332.5
+151,Omaha,aug,296.3
+152,Omaha,sep,245.5
+153,Omaha,oct,217.5
+154,Omaha,nov,148.0
+155,Omaha,dec,134.1
+156,San Antonio,jan,159.4
+157,San Antonio,feb,169.7
+158,San Antonio,mar,215.5
+159,San Antonio,apr,209.7
+160,San Antonio,may,221.8
+161,San Antonio,jun,275.9
+162,San Antonio,jul,308.8
+163,San Antonio,aug,293.9
+164,San Antonio,sep,234.9
+165,San Antonio,oct,218.0
+166,San Antonio,nov,171.9
+167,San Antonio,dec,149.7
+168,San Diego,jan,239.3
+169,San Diego,feb,227.4
+170,San Diego,mar,261.0
+171,San Diego,apr,276.2
+172,San Diego,may,250.5
+173,San Diego,jun,242.4
+174,San Diego,jul,304.7
+175,San Diego,aug,295.0
+176,San Diego,sep,253.3
+177,San Diego,oct,243.4
+178,San Diego,nov,230.1
+179,San Diego,dec,231.3
+180,Indianapolis,jan,132.1
+181,Indianapolis,feb,145.7
+182,Indianapolis,mar,178.3
+183,Indianapolis,apr,214.8
+184,Indianapolis,may,264.7
+185,Indianapolis,jun,287.2
+186,Indianapolis,jul,295.2
+187,Indianapolis,aug,273.7
+188,Indianapolis,sep,232.6
+189,Indianapolis,oct,196.6
+190,Indianapolis,nov,117.1
+191,Indianapolis,dec,102.4
+192,Jacksonville,jan,189.4
+193,Jacksonville,feb,193.8
+194,Jacksonville,mar,257.9
+195,Jacksonville,apr,286.4
+196,Jacksonville,may,303.9
+197,Jacksonville,jun,283.6
+198,Jacksonville,jul,282.0
+199,Jacksonville,aug,262.4
+200,Jacksonville,sep,228.2
+201,Jacksonville,oct,214.6
+202,Jacksonville,nov,193.9
+203,Jacksonville,dec,183.6
+204,Kansas City,jan,183.7
+205,Kansas City,feb,174.3
+206,Kansas City,mar,223.9
+207,Kansas City,apr,257.8
+208,Kansas City,may,285.0
+209,Kansas City,jun,305.5
+210,Kansas City,jul,329.3
+211,Kansas City,aug,293.9
+212,Kansas City,sep,240.5
+213,Kansas City,oct,213.6
+214,Kansas City,nov,155.3
+215,Kansas City,dec,147.1
+216,Pittsburgh,jan,93.9
+217,Pittsburgh,feb,108.5
+218,Pittsburgh,mar,155.4
+219,Pittsburgh,apr,182.8
+220,Pittsburgh,may,217.4
+221,Pittsburgh,jun,242.2
+222,Pittsburgh,jul,254.9
+223,Pittsburgh,aug,228.4
+224,Pittsburgh,sep,196.7
+225,Pittsburgh,oct,167.3
+226,Pittsburgh,nov,99.4
+227,Pittsburgh,dec,74.4
+228,Columbus,jan,110.6
+229,Columbus,feb,126.3
+230,Columbus,mar,162.0
+231,Columbus,apr,201.8
+232,Columbus,may,243.4
+233,Columbus,jun,258.1
+234,Columbus,jul,260.9
+235,Columbus,aug,235.9
+236,Columbus,sep,212.0
+237,Columbus,oct,183.1
+238,Columbus,nov,104.2
+239,Columbus,dec,84.3
+240,Richmond,jan,172.5
+241,Richmond,feb,179.7
+242,Richmond,mar,233.3
+243,Richmond,apr,261.6
+244,Richmond,may,288.0
+245,Richmond,jun,306.4
+246,Richmond,jul,301.4
+247,Richmond,aug,278.9
+248,Richmond,sep,237.9
+249,Richmond,oct,222.8
+250,Richmond,nov,183.5
+251,Richmond,dec,163.0
+252,Tampa,jan,199.9
+253,Tampa,feb,202.7
+254,Tampa,mar,267.5
+255,Tampa,apr,299.1
+256,Tampa,may,314.5
+257,Tampa,jun,277.8
+258,Tampa,jul,265.3
+259,Tampa,aug,249.5
+260,Tampa,sep,223.0
+261,Tampa,oct,233.9
+262,Tampa,nov,201.7
+263,Tampa,dec,191.6
+264,Atlanta,jan,164.0
+265,Atlanta,feb,171.7
+266,Atlanta,mar,220.5
+267,Atlanta,apr,261.2
+268,Atlanta,may,288.6
+269,Atlanta,jun,284.8
+270,Atlanta,jul,273.8
+271,Atlanta,aug,258.6
+272,Atlanta,sep,227.5
+273,Atlanta,oct,238.5
+274,Atlanta,nov,185.1
+275,Atlanta,dec,164.0
+276,Honolulu,jan,213.5
+277,Honolulu,feb,212.7
+278,Honolulu,mar,259.2
+279,Honolulu,apr,251.8
+280,Honolulu,may,280.6
+281,Honolulu,jun,286.1
+282,Honolulu,jul,306.2
+283,Honolulu,aug,303.1
+284,Honolulu,sep,278.8
+285,Honolulu,oct,244.0
+286,Honolulu,nov,200.4
+287,Honolulu,dec,199.5
+288,Milwaukee,jan,140.2
+289,Milwaukee,feb,151.5
+290,Milwaukee,mar,185.4
+291,Milwaukee,apr,213.5
+292,Milwaukee,may,275.5
+293,Milwaukee,jun,304.5
+294,Milwaukee,jul,321.1
+295,Milwaukee,aug,281.2
+296,Milwaukee,sep,215.1
+297,Milwaukee,oct,178.0
+298,Milwaukee,nov,112.8
+299,Milwaukee,dec,104.8
+300,Louisville,jan,140.5
+301,Louisville,feb,148.9
+302,Louisville,mar,188.6
+303,Louisville,apr,221.1
+304,Louisville,may,263.4
+305,Louisville,jun,288.9
+306,Louisville,jul,293.6
+307,Louisville,aug,272.6
+308,Louisville,sep,234.3
+309,Louisville,oct,208.5
+310,Louisville,nov,135.7
+311,Louisville,dec,118.3
+312,Oklahoma City,jan,200.8
+313,Oklahoma City,feb,189.7
+314,Oklahoma City,mar,244.2
+315,Oklahoma City,apr,271.3
+316,Oklahoma City,may,295.2
+317,Oklahoma City,jun,326.1
+318,Oklahoma City,jul,356.6
+319,Oklahoma City,aug,329.3
+320,Oklahoma City,sep,263.7
+321,Oklahoma City,oct,245.1
+322,Oklahoma City,nov,186.5
+323,Oklahoma City,dec,180.9
+324,Las Vegas,jan,245.2
+325,Las Vegas,feb,246.7
+326,Las Vegas,mar,314.6
+327,Las Vegas,apr,346.1
+328,Las Vegas,may,388.1
+329,Las Vegas,jun,401.7
+330,Las Vegas,jul,390.9
+331,Las Vegas,aug,368.5
+332,Las Vegas,sep,337.1
+333,Las Vegas,oct,304.4
+334,Las Vegas,nov,246.0
+335,Las Vegas,dec,236.0
+336,Tucson,jan,259.9
+337,Tucson,feb,258.2
+338,Tucson,mar,320.7
+339,Tucson,apr,357.2
+340,Tucson,may,400.8
+341,Tucson,jun,396.9
+342,Tucson,jul,342.7
+343,Tucson,aug,335.6
+344,Tucson,sep,316.4
+345,Tucson,oct,307.4
+346,Tucson,nov,264.4
+347,Tucson,dec,245.8
+348,Wichita,jan,190.9
+349,Wichita,feb,186.4
+350,Wichita,mar,230.4
+351,Wichita,apr,257.8
+352,Wichita,may,289.8
+353,Wichita,jun,305.0
+354,Wichita,jul,342.1
+355,Wichita,aug,309.2
+356,Wichita,sep,245.6
+357,Wichita,oct,226.3
+358,Wichita,nov,170.2
+359,Wichita,dec,168.7
+360,St. Louis,jan,161.2
+361,St. Louis,feb,158.3
+362,St. Louis,mar,198.3
+363,St. Louis,apr,223.5
+364,St. Louis,may,266.5
+365,St. Louis,jun,291.9
+366,St. Louis,jul,308.9
+367,St. Louis,aug,269.8
+368,St. Louis,sep,236.1
+369,St. Louis,oct,208.4
+370,St. Louis,nov,140.9
+371,St. Louis,dec,129.9
+372,Sacramento,jan,145.5
+373,Sacramento,feb,201.3
+374,Sacramento,mar,278.0
+375,Sacramento,apr,329.6
+376,Sacramento,may,406.3
+377,Sacramento,jun,419.5
+378,Sacramento,jul,440.2
+379,Sacramento,aug,406.9
+380,Sacramento,sep,347.8
+381,Sacramento,oct,296.7
+382,Sacramento,nov,194.9
+383,Sacramento,dec,141.1
+384,Tulsa,jan,175.8
+385,Tulsa,feb,171.7
+386,Tulsa,mar,219.6
+387,Tulsa,apr,244.4
+388,Tulsa,may,266.7
+389,Tulsa,jun,294.8
+390,Tulsa,jul,334.7
+391,Tulsa,aug,305.3
+392,Tulsa,sep,232.5
+393,Tulsa,oct,218.6
+394,Tulsa,nov,161.1
+395,Tulsa,dec,160.8
+396,Cleveland,jan,101.0
+397,Cleveland,feb,122.3
+398,Cleveland,mar,167.0
+399,Cleveland,apr,216.0
+400,Cleveland,may,263.6
+401,Cleveland,jun,294.6
+402,Cleveland,jul,307.2
+403,Cleveland,aug,262.2
+404,Cleveland,sep,219.0
+405,Cleveland,oct,169.5
+406,Cleveland,nov,89.8
+407,Cleveland,dec,67.8
+408,New York City,jan,162.7
+409,New York City,feb,163.1
+410,New York City,mar,212.5
+411,New York City,apr,225.6
+412,New York City,may,256.6
+413,New York City,jun,257.3
+414,New York City,jul,268.2
+415,New York City,aug,268.2
+416,New York City,sep,219.3
+417,New York City,oct,211.2
+418,New York City,nov,151.0
+419,New York City,dec,139.0
+420,Detroit,jan,119.9
+421,Detroit,feb,138.3
+422,Detroit,mar,184.9
+423,Detroit,apr,217.0
+424,Detroit,may,275.9
+425,Detroit,jun,301.8
+426,Detroit,jul,317.0
+427,Detroit,aug,283.5
+428,Detroit,sep,227.6
+429,Detroit,oct,176.0
+430,Detroit,nov,106.3
+431,Detroit,dec,87.7
+432,Baltimore,jan,155.4
+433,Baltimore,feb,164.0
+434,Baltimore,mar,215.0
+435,Baltimore,apr,230.7
+436,Baltimore,may,254.5
+437,Baltimore,jun,277.3
+438,Baltimore,jul,290.1
+439,Baltimore,aug,264.4
+440,Baltimore,sep,221.8
+441,Baltimore,oct,205.5
+442,Baltimore,nov,158.5
+443,Baltimore,dec,144.5
+444,Philadelphia,jan,155.7
+445,Philadelphia,feb,154.7
+446,Philadelphia,mar,202.8
+447,Philadelphia,apr,217.0
+448,Philadelphia,may,245.1
+449,Philadelphia,jun,271.2
+450,Philadelphia,jul,275.6
+451,Philadelphia,aug,260.1
+452,Philadelphia,sep,219.3
+453,Philadelphia,oct,204.5
+454,Philadelphia,nov,154.7
+455,Philadelphia,dec,137.7
+456,Virginia Beach,jan,171.5
+457,Virginia Beach,feb,175.2
+458,Virginia Beach,mar,229.3
+459,Virginia Beach,apr,252.8
+460,Virginia Beach,may,271.7
+461,Virginia Beach,jun,280.1
+462,Virginia Beach,jul,278.3
+463,Virginia Beach,aug,260.4
+464,Virginia Beach,sep,231.4
+465,Virginia Beach,oct,208.3
+466,Virginia Beach,nov,175.7
+467,Virginia Beach,dec,160.4
+468,Chicago,jan,135.8
+469,Chicago,feb,136.2
+470,Chicago,mar,187.0
+471,Chicago,apr,215.3
+472,Chicago,may,281.9
+473,Chicago,jun,311.4
+474,Chicago,jul,318.4
+475,Chicago,aug,283.0
+476,Chicago,sep,226.6
+477,Chicago,oct,193.2
+478,Chicago,nov,113.3
+479,Chicago,dec,106.3
+480,Albuquerque,jan,234.2
+481,Albuquerque,feb,225.3
+482,Albuquerque,mar,270.2
+483,Albuquerque,apr,304.6
+484,Albuquerque,may,347.4
+485,Albuquerque,jun,359.3
+486,Albuquerque,jul,335.0
+487,Albuquerque,aug,314.2
+488,Albuquerque,sep,286.7
+489,Albuquerque,oct,281.4
+490,Albuquerque,nov,233.8
+491,Albuquerque,dec,223.3
+492,Los Angeles,jan,225.3
+493,Los Angeles,feb,222.5
+494,Los Angeles,mar,267.0
+495,Los Angeles,apr,303.5
+496,Los Angeles,may,276.2
+497,Los Angeles,jun,275.8
+498,Los Angeles,jul,364.1
+499,Los Angeles,aug,349.5
+500,Los Angeles,sep,278.5
+501,Los Angeles,oct,255.1
+502,Los Angeles,nov,217.3
+503,Los Angeles,dec,219.4
+504,El Paso,jan,254.5
+505,El Paso,feb,263.0
+506,El Paso,mar,326.0
+507,El Paso,apr,348.0
+508,El Paso,may,384.7
+509,El Paso,jun,384.1
+510,El Paso,jul,360.2
+511,El Paso,aug,335.4
+512,El Paso,sep,304.1
+513,El Paso,oct,298.6
+514,El Paso,nov,257.6
+515,El Paso,dec,246.3
+516,Miami,jan,219.8
+517,Miami,feb,216.9
+518,Miami,mar,277.2
+519,Miami,apr,293.8
+520,Miami,may,301.3
+521,Miami,jun,288.7
+522,Miami,jul,308.7
+523,Miami,aug,288.3
+524,Miami,sep,262.2
+525,Miami,oct,260.2
+526,Miami,nov,220.8
+527,Miami,dec,216.1
+528,New Orleans,jan,153.0
+529,New Orleans,feb,161.5
+530,New Orleans,mar,219.4
+531,New Orleans,apr,251.9
+532,New Orleans,may,278.9
+533,New Orleans,jun,274.3
+534,New Orleans,jul,257.1
+535,New Orleans,aug,251.9
+536,New Orleans,sep,228.7
+537,New Orleans,oct,242.6
+538,New Orleans,nov,171.8
+539,New Orleans,dec,157.8
+540,Memphis,jan,166.6
+541,Memphis,feb,173.8
+542,Memphis,mar,215.3
+543,Memphis,apr,254.6
+544,Memphis,may,301.5
+545,Memphis,jun,320.6
+546,Memphis,jul,326.9
+547,Memphis,aug,307.0
+548,Memphis,sep,251.2
+549,Memphis,oct,245.9
+550,Memphis,nov,173.0
+551,Memphis,dec,151.9
+552,Fresno,jan,141.5
+553,Fresno,feb,196.9
+554,Fresno,mar,286.2
+555,Fresno,apr,335.5
+556,Fresno,may,398.9
+557,Fresno,jun,412.2
+558,Fresno,jul,428.2
+559,Fresno,aug,399.6
+560,Fresno,sep,345.9
+561,Fresno,oct,302.3
+562,Fresno,nov,189.9
+563,Fresno,dec,127.1
+564,San Juan,jan,118.9
+565,San Juan,feb,200.2
+566,San Juan,mar,288.9
+567,San Juan,apr,153.1
+568,San Juan,may,214.5
+569,San Juan,jun,310.3
+570,San Juan,jul,302.1
+571,San Juan,aug,268.1
+572,San Juan,sep,212.2
+573,San Juan,oct,222.9
+574,San Juan,nov,139.8
+575,San Juan,dec,120.5

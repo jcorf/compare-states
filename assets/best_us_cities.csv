@@ -1,0 +1,126 @@
+us_news_rank,city,state,metro_population,average_annual_salary,avg_high_low_temps,median_age,median_home_price,avg_annual_rainfall,unemployment_rate,median_monthly_rent,avg_commute_time,percent_single,total_students,total_teachers,violent_crime,property_crime,link
+1,Austin,TX,2000590,51840,79.7° / 54.8°,34.2,292500,32.2 inches,0.029,1155,26.8 minutes,0.508,114529,7948,306.3,2343.4,https://realestate.usnews.com/places/texas/austin
+2,Denver,CO,2798684,57400,64.6° / 36.2°,36.3,393842,14.3 inches,0.03,1203,27.5 minutes,0.486,171601,9730,413.9,1600.9,https://realestate.usnews.com/places/colorado/denver
+3,Colorado Springs,CO,698595,50050,62.1° / 35.7°,34.4,286700,16.5 inches,0.037,1070,23.3 minutes,0.447,39672,2280,431.8,2612.3,https://realestate.usnews.com/places/colorado/colorado-springs
+4,Fayetteville,AR,514166,45830,68.0° / 45.0°,33.9,177942,47.9 inches,0.027,778,21.1 minutes,0.442,27384,1924,375.9,2361.7,https://realestate.usnews.com/places/arkansas/fayetteville
+5,Des Moines,IA,623113,50600,60.3° / 41.4°,35.7,178942,36.0 inches,0.024,857,20.3 minutes,0.463,35000,2202,370.8,2452.3,https://realestate.usnews.com/places/iowa/des-moines
+6,Minneapolis-St. Paul,MN,3526149,56030,55.2° / 37.2°,36.8,237367,30.6 inches,0.027,1001,25.3 minutes,0.474,202832,12022,283,2404.2,https://realestate.usnews.com/places/minnesota/minneapolis-st-paul
+7,San Francisco,CA,4641820,69700,65.8° / 50.6°,38.8,768517,20.7 inches,0.027,1673,32.8 minutes,0.501,250611,15147,476.6,2199.8,https://realestate.usnews.com/places/california/san-francisco
+8,Portland,OR,2382037,55330,63.1° / 45.6°,37.8,375425,36.0 inches,0.038,1118,26.6 minutes,0.483,135802,7144,283.2,1877.9,https://realestate.usnews.com/places/oregon/portland
+9,Seattle,WA,3735216,63120,60.2° / 45.0°,37.1,442333,37.5 inches,0.039,1297,30.1 minutes,0.479,195911,10762,353.7,1963.6,https://realestate.usnews.com/places/washington/seattle
+10,Raleigh & Durham,NC,1824266,53788,71.6° / 49.9°,36.4,249294,43.3 inches,0.034,991,25.3 minutes,0.477,112389,7587,227,1860,https://realestate.usnews.com/places/north-carolina/raleigh-durham
+11,Huntsville,AL,444908,53600,N/A,38.4,167300,N/A,0.035,779,22.1 minutes,0.478,27687,1685,556.8,3128.9,https://realestate.usnews.com/places/alabama/huntsville
+12,Madison,WI,640072,52190,55.9° / 36.8°,35.9,247967,34.5 inches,0.022,958,21.7 minutes,0.499,33671,2453,228.6,1826,https://realestate.usnews.com/places/wisconsin/madison
+13,Grand Rapids,MI,1039182,44770,57.9° / 40.2°,35.7,181533,38.3 inches,0.031,826,21.8 minutes,0.47,68973,3793,324,1510.3,https://realestate.usnews.com/places/michigan/grand-rapids
+14,San Jose,CA,1969897,77180,72.4° / 50.6°,36.9,1080017,14.9 inches,0.026,1940,28.2 minutes,0.455,112408,6271,308.8,2275.1,https://realestate.usnews.com/places/california/san-jose
+15,Nashville,TN,1830410,47110,69.7° / 48.9°,36.3,248883,47.3 inches,0.028,951,27.3 minutes,0.481,106199,7253,624.9,2558.6,https://realestate.usnews.com/places/tennessee/nashville
+16,Asheville,NC,445625,41210,N/A,44,248500,N/A,0.032,849,21.2 minutes,0.458,19876,1518,232.2,2106.2,https://realestate.usnews.com/places/north-carolina/asheville
+17,Boise,ID,677346,43880,63.5° / 41.2°,35.8,221475,11.7 inches,0.026,879,22.0 minutes,0.461,44431,2398,235,1761.9,https://realestate.usnews.com/places/idaho/boise
+18,Sarasota,FL,768381,42680,81.7° / 64.1°,51.6,237260,53.0 inches,0.033,1089,24.5 minutes,0.46,36106,2183,354,1783.1,https://realestate.usnews.com/places/florida/sarasota
+19,"Washington, D.C.",DC,6090196,69210,66.7° / 49.5°,36.7,376767,39.7 inches,0.034,1600,34.6 minutes,0.493,355212,26734,273.4,1741.2,https://realestate.usnews.com/places/district-of-columbia/washington
+20,Charlotte,NC,2427024,50150,70.9° / 48.7°,37.3,213983,41.6 inches,0.036,935,26.5 minutes,0.478,151842,9823,416.2,2731.9,https://realestate.usnews.com/places/north-carolina/charlotte
+21,Dallas-Fort Worth,TX,7104415,51250,76.6° / 55.8°,34.6,248375,36.1 inches,0.035,1022,28.1 minutes,0.472,453439,31775,369.3,1357.4,https://realestate.usnews.com/places/texas/dallas-fort-worth
+22,Greenville,SC,872463,43230,70.3° / 50.5°,38.5,172067,50.8 inches,0.033,787,22.8 minutes,0.474,46873,2891,486.8,3101.8,https://realestate.usnews.com/places/south-carolina/greenville
+23,Portland,ME,525776,48970,55.7° / 37.1°,43.4,223367,47.3 inches,0.026,975,24.8 minutes,0.475,27438,2450,127.4,1476.9,https://realestate.usnews.com/places/maine/portland
+24,Salt Lake City,UT,2399521,47272,63.8° / 41.6°,30.2,324198,16.1 inches,0.03,963,22.2 minutes,0.428,,,257,3075,https://realestate.usnews.com/places/utah/salt-lake-city
+25,Melbourne,FL,568183,48240,81.9° / 62.8°,47.1,198425,52.0 inches,0.035,971,24.5 minutes,0.488,30044,1902,460.6,2430.6,https://realestate.usnews.com/places/florida/melbourne
+26,Phoenix,AZ,4561038,49500,86.6° / 63.4°,36.2,234183,8.0 inches,0.041,1032,26.2 minutes,0.51,,,470.6,2814.5,https://realestate.usnews.com/places/arizona/phoenix
+27,Boston,MA,4771936,65420,58.7° / 44.0°,38.7,423450,43.8 inches,0.031,1335,31.0 minutes,0.508,272427,24493,305.3,1291,https://realestate.usnews.com/places/massachusetts/boston
+28,Albany,NY,881862,52770,57.8° / 38.6°,40,201533,39.4 inches,0.039,956,23.1 minutes,0.521,48800,3906,291.2,1954.7,https://realestate.usnews.com/places/new-york/albany
+29,Lexington-Fayette,KY,500689,43720,N/A,35.8,,N/A,0.034,808,21.4 minutes,0.511,26050,1735,273.2,2377.6,https://realestate.usnews.com/places/kentucky/lexington-fayette
+30,Houston,TX,6636208,53820,78.9° / 61.5°,34,223875,54.7 inches,0.043,995,29.7 minutes,0.474,425956,27792,593.1,1481.4,https://realestate.usnews.com/places/texas/houston
+31,Winston-Salem,NC,658195,44910,69.7° / 49.4°,40.4,145725,46.9 inches,0.037,732,23.4 minutes,0.473,36165,2528,410.7,3179.6,https://realestate.usnews.com/places/north-carolina/winston-salem
+32,Omaha,NE,914190,47660,61.8° / 40.2°,35.4,171164,30.6 inches,0.029,865,20.2 minutes,0.469,61842,4048,384.5,2750.3,https://realestate.usnews.com/places/nebraska/omaha
+33,Reno,NV,449442,46330,N/A,38.2,351500,N/A,0.037,946,21.4 minutes,0.503,25954,1190,514.7,2549.7,https://realestate.usnews.com/places/nevada/reno
+34,San Antonio,TX,2377507,46200,80.2° / 58.6°,34.4,211800,32.3 inches,0.033,949,26.0 minutes,0.506,147120,9725,523.9,3028.2,https://realestate.usnews.com/places/texas/san-antonio
+35,Fort Myers,FL,700165,41380,84.3° / 64.4°,47.8,219200,53.2 inches,0.034,1035,27.2 minutes,0.473,30856,1647,309.2,1516.7,https://realestate.usnews.com/places/florida/fort-myers
+36,San Diego,CA,3283665,56410,69.7° / 57.5°,35.4,555325,10.3 inches,0.033,1467,25.7 minutes,0.508,195383,9417,337.1,1695.5,https://realestate.usnews.com/places/california/san-diego
+37,Pensacola,FL,476702,41200,N/A,38,175875,N/A,0.035,952,24.2 minutes,0.521,23753,1357,406.2,2449,https://realestate.usnews.com/places/florida/pensacola
+38,Indianapolis,IN,1989032,48030,61.8° / 44.4°,36.3,173700,40.8 inches,0.032,859,24.8 minutes,0.501,137836,7518,694.5,2716.4,https://realestate.usnews.com/places/indiana/indianapolis
+39,Cincinnati,OH,2156723,48890,65.1° / 43.4°,37.7,161483,41.9 inches,0.039,787,24.7 minutes,0.49,140825,8579,264.9,2356,https://realestate.usnews.com/places/ohio/cincinnati
+40,Fort Wayne,IN,429060,43590,N/A,36.4,146200,N/A,0.031,714,21.5 minutes,0.482,32198,1811,283.5,1946.7,https://realestate.usnews.com/places/indiana/fort-wayne
+41,Lansing,MI,472092,47990,N/A,35.3,136342,N/A,0.037,834,21.2 minutes,0.542,27374,1389,432.5,1952.7,https://realestate.usnews.com/places/michigan/lansing
+42,Jacksonville,FL,1447884,45760,79.2° / 61.2°,38.1,174658,49.2 inches,0.033,1019,26.5 minutes,0.498,91281,5450,480.8,2777.6,https://realestate.usnews.com/places/florida/jacksonville
+43,Manchester,NH,406371,52640,N/A,40.5,234097,N/A,0.025,1132,27.9 minutes,0.471,24180,1997,265.8,1387.2,https://realestate.usnews.com/places/new-hampshire/manchester
+44,Harrisburg,PA,565008,48270,62.5° / 43.7°,40.3,162967,40.9 inches,0.037,903,22.9 minutes,0.478,39250,2732,282.1,1500.7,https://realestate.usnews.com/places/pennsylvania/harrisburg
+45,Charleston,SC,744195,44970,76.1° / 55.5°,36.6,246408,51.0 inches,0.03,1054,25.4 minutes,0.509,38200,2907,412.1,1211.5,https://realestate.usnews.com/places/south-carolina/charleston
+46,Knoxville,TN,862490,43840,69.5° / 48.8°,40.5,172333,47.9 inches,0.033,779,23.6 minutes,0.467,44737,2999,440.1,2596.9,https://realestate.usnews.com/places/tennessee/knoxville
+47,Hartford,CT,1213123,60040,60.7° / 41.5°,40.7,215542,43.6 inches,0.042,1057,23.9 minutes,0.516,69381,5851,247.2,2259.3,https://realestate.usnews.com/places/connecticut/hartford
+48,Lancaster,PA,536494,43760,61.9° / 42.3°,38.5,196025,42.0 inches,0.034,957,23.1 minutes,0.433,29529,2188,207.8,1327.8,https://realestate.usnews.com/places/pennsylvania/lancaster
+49,Kansas City,MO,2088830,49460,64.6° / 44.5°,37.1,201900,38.9 inches,0.034,894,23.0 minutes,0.478,124097,7689,596.7,2727.9,https://realestate.usnews.com/places/missouri/kansas-city
+50,Pittsburgh,PA,2348143,48580,60.6° / 41.9°,43,140855,38.2 inches,0.043,776,26.7 minutes,0.49,132334,9666,278.2,1563.5,https://realestate.usnews.com/places/pennsylvania/pittsburgh
+51,Columbus,OH,2023695,50020,62.5° / 44.2°,35.8,182600,39.3 inches,0.038,887,23.7 minutes,0.508,112664,6744,290.7,2749.3,https://realestate.usnews.com/places/ohio/columbus
+52,Buffalo,NY,1136670,48180,56.3° / 40.2°,40.8,144300,40.5 inches,0.047,763,21.5 minutes,0.532,67249,5426,375.7,2185.8,https://realestate.usnews.com/places/new-york/buffalo
+53,Richmond,VA,1270158,49840,69.6° / 48.1°,38.5,225767,43.6 inches,0.032,1044,25.2 minutes,0.513,68004,4918,244.7,2232.6,https://realestate.usnews.com/places/virginia/richmond
+54,Syracuse,NY,659262,49850,57.6° / 38.9°,39.2,132500,38.5 inches,0.045,804,21.2 minutes,0.523,36811,2720,267.8,2051.7,https://realestate.usnews.com/places/new-york/syracuse
+55,Chattanooga,TN,548359,42870,71.6° / 50.1°,40.1,164550,52.5 inches,0.035,771,23.2 minutes,0.482,31372,2377,557.3,3394.1,https://realestate.usnews.com/places/tennessee/chattanooga
+56,Tampa,FL,2978209,46080,81.7° / 65.1°,42,199717,46.3 inches,0.034,1014,27.1 minutes,0.515,150591,9492,333.1,2101.6,https://realestate.usnews.com/places/florida/tampa
+57,Atlanta,GA,5700990,51390,71.8° / 53.2°,36.1,209658,49.7 inches,0.037,1053,31.4 minutes,0.505,353768,23108,367.6,2828,https://realestate.usnews.com/places/georgia/atlanta
+58,Rochester,NY,1080653,49570,57.1° / 39.3°,39.9,135042,34.3 inches,0.044,848,21.3 minutes,0.519,61154,5045,283,1922.6,https://realestate.usnews.com/places/new-york/rochester
+59,Lakeland,FL,652256,40560,85.2° / 62.7°,40.4,171967,52.2 inches,0.04,913,26.0 minutes,0.497,36013,2144,285.1,1960.1,https://realestate.usnews.com/places/florida/lakeland
+60,Honolulu,HI,990060,54030,84.4° / 70.9°,37.6,581658,17.1 inches,0.021,1653,29.1 minutes,0.485,59341,3972,246.4,2774.4,https://realestate.usnews.com/places/hawaii/honolulu
+61,Milwaukee,WI,1575101,50070,55.5° / 40.0°,37.6,207400,34.8 inches,0.031,864,23.1 minutes,0.523,121319,7844,680.5,2545.9,https://realestate.usnews.com/places/wisconsin/milwaukee
+62,Worcester,MA,934923,53110,56.0° / 39.6°,40.2,249275,48.1 inches,0.037,973,28.4 minutes,0.504,57132,5069,360.2,1276.7,https://realestate.usnews.com/places/massachusetts/worcester
+63,Orlando,FL,2390859,44410,82.8° / 62.8°,36.9,233050,50.7 inches,0.032,1107,28.2 minutes,0.517,146829,8094,443.8,2771.8,https://realestate.usnews.com/places/florida/orlando
+64,Louisville,KY,1278203,45100,67.7° / 48.5°,38.8,167300,44.9 inches,0.039,792,23.9 minutes,0.508,84558,5687,417.7,2942.4,https://realestate.usnews.com/places/kentucky/louisville
+65,Spokane,WA,547688,47320,57.6° / 38.6°,38.3,221800,16.6 inches,0.055,833,22.1 minutes,0.483,31569,1770,322.1,4471.7,https://realestate.usnews.com/places/washington/spokane
+66,Greensboro,NC,751590,43310,69.2° / 49.0°,38.8,142758,42.2 inches,0.041,777,22.4 minutes,0.507,43636,2871,469.5,2881.4,https://realestate.usnews.com/places/north-carolina/greensboro
+67,Columbia,SC,808377,43840,75.6° / 53.9°,36.3,144192,45.4 inches,0.035,889,23.7 minutes,0.527,48859,3244,558.9,863.1,https://realestate.usnews.com/places/south-carolina/columbia
+68,Oklahoma City,OK,1353504,46070,72.2° / 50.7°,34.9,150925,36.5 inches,0.033,827,22.7 minutes,0.491,72986,4362,498.4,2897.9,https://realestate.usnews.com/places/oklahoma/oklahoma-city
+69,Dayton,OH,800893,48700,61.0° / 42.8°,39.4,126325,41.1 inches,0.043,770,21.3 minutes,0.51,44023,2597,294.3,2490.9,https://realestate.usnews.com/places/ohio/dayton
+70,Anchorage,AK,399360,58980,N/A,33.5,259900,N/A,0.061,1237,22.1 minutes,0.491,23904,1188,1162.8,5441.4,https://realestate.usnews.com/places/alaska/anchorage
+71,Las Vegas,NV,2112436,44450,80.0° / 58.6°,36.9,271767,4.2 inches,0.048,1048,24.5 minutes,0.533,122401,5405,607.9,2779.2,https://realestate.usnews.com/places/nevada/las-vegas
+72,Augusta,GA,589519,44020,76.8° / 50.9°,37.2,147427,43.6 inches,0.041,809,23.7 minutes,0.511,32596,2146,314.8,3147.4,https://realestate.usnews.com/places/georgia/augusta
+73,Santa Barbara,CA,442996,54320,N/A,33.7,463750,N/A,0.039,1496,19.4 minutes,0.532,25976,1409,340.9,1945.2,https://realestate.usnews.com/places/california/santa-barbara
+74,Santa Rosa,CA,500943,53890,71.0° / 44.2°,41.4,629917,36.3 inches,0.027,1456,25.2 minutes,0.508,26644,1477,400.5,1500.4,https://realestate.usnews.com/places/california/santa-rosa
+75,Myrtle Beach,SC,432772,35890,N/A,46.5,181800,N/A,0.046,883,22.5 minutes,0.444,18451,1150,415.6,3557.7,https://realestate.usnews.com/places/south-carolina/myrtle-beach
+76,Tucson,AZ,1007257,46140,83.1° / 55.7°,38.2,203458,11.6 inches,0.044,861,24.5 minutes,0.53,,,499,3913.4,https://realestate.usnews.com/places/arizona/tucson
+77,Salem,OR,410119,47240,N/A,36.3,269367,N/A,0.042,877,23.5 minutes,0.486,27987,1365,280.2,3055.3,https://realestate.usnews.com/places/oregon/salem
+78,Port St. Lucie,FL,454482,42500,N/A,47.1,211083,N/A,0.041,1074,27.2 minutes,0.482,24066,1358,233.6,1681.7,https://realestate.usnews.com/places/florida/port-st-lucie
+79,Wichita,KS,642339,43880,67.6° / 45.5°,35.8,143850,34.3 inches,0.037,769,19.5 minutes,0.473,42829,2859,724.2,3350.2,https://realestate.usnews.com/places/kansas/wichita
+80,Springfield,MO,455133,40560,N/A,36.6,,N/A,0.028,721,21.8 minutes,0.475,22727,1520,577.2,4283,https://realestate.usnews.com/places/missouri/springfield
+81,St. Louis,MO,2804998,49180,66.1° / 47.8°,39,157725,41.0 inches,0.034,858,25.6 minutes,0.497,175159,12242,235.3,2405.5,https://realestate.usnews.com/places/missouri/st-louis
+82,Sacramento,CA,2268005,55010,73.8° / 47.6°,37,389858,21.2 inches,0.037,1157,26.8 minutes,0.498,138172,6825,387.2,2249.3,https://realestate.usnews.com/places/california/sacramento
+83,Tulsa,OK,977869,45260,71.3° / 50.1°,36.8,149000,41.0 inches,0.036,804,21.5 minutes,0.474,51115,3158,565.7,3431.4,https://realestate.usnews.com/places/oklahoma/tulsa
+84,Reading,PA,415500,46100,N/A,39.9,151900,N/A,0.042,885,24.9 minutes,0.484,23365,1570,259.2,1473.7,https://realestate.usnews.com/places/pennsylvania/reading
+85,Cleveland,OH,2766162,48589,59.2° / 45.9°,41,132516,36.4 inches,0.049,782,24.3 minutes,0.527,173243,11275,292,2033,https://realestate.usnews.com/places/ohio/cleveland
+86,Springfield,MA,630385,50930,59.2° / 37.3°,38.2,199650,48.4 inches,0.042,903,22.8 minutes,0.57,36156,3055,503.8,2138.1,https://realestate.usnews.com/places/massachusetts/springfield
+87,York,PA,442216,44740,N/A,41,164258,N/A,0.038,915,27.1 minutes,0.451,21237,1511,246.5,1457.5,https://realestate.usnews.com/places/pennsylvania/york
+88,Little Rock,AR,730346,43780,72.8° / 52.4°,36.5,147150,49.8 inches,0.033,805,22.9 minutes,0.5,41396,3231,798.6,4088.2,https://realestate.usnews.com/places/arkansas/little-rock
+89,Birmingham,AL,1144097,47300,73.8° / 52.6°,38.4,171450,53.7 inches,0.036,831,26.2 minutes,0.494,68952,4363,684.8,2940.5,https://realestate.usnews.com/places/alabama/birmingham
+90,New York City,NY,21139370,63079,62.0° / 47.9°,38.3,386862,49.9 inches,0.04,1345,36.0 minutes,0.516,1278811,101173,329,1337,https://realestate.usnews.com/places/new-york/new-york-city
+91,Providence,RI,1613154,52220,60.6° / 42.5°,40.2,228804,47.2 inches,0.041,925,25.8 minutes,0.526,84693,7069,294.9,1685.5,https://realestate.usnews.com/places/rhode-island/providence
+92,Detroit,MI,4304613,52100,57.8° / 42.7°,40,156508,31.3 inches,0.043,890,26.8 minutes,0.522,254236,13582,544,1945.5,https://realestate.usnews.com/places/michigan/detroit
+93,Allentown,PA,832790,46920,61.4° / 40.8°,41.3,174858,45.4 inches,0.045,990,27.7 minutes,0.477,49106,3345,237.5,1655.6,https://realestate.usnews.com/places/pennsylvania/allentown
+94,Toledo,OH,605204,44180,59.9° / 40.6°,37.3,117850,34.2 inches,0.049,710,20.7 minutes,0.539,47267,2641,650.7,2750.7,https://realestate.usnews.com/places/ohio/toledo
+95,New Haven,CT,862127,55450,60.6° / 43.7°,40.1,204475,47.1 inches,0.041,1100,24.9 minutes,0.544,50077,4338,307.4,2413.7,https://realestate.usnews.com/places/connecticut/new-haven
+96,Lafayette,LA,487633,39940,N/A,35.4,165500,N/A,0.049,769,25.3 minutes,0.522,33670,2086,439.6,1188.3,https://realestate.usnews.com/places/louisiana/lafayette
+97,Youngstown,OH,548821,41360,58.3° / 39.7°,43.9,86850,38.9 inches,0.058,652,22.0 minutes,0.509,30277,1926,240.8,2226.7,https://realestate.usnews.com/places/ohio/youngstown
+98,Scranton,PA,557942,41980,58.7° / 40.0°,42.8,100600,38.3 inches,0.05,745,21.8 minutes,0.518,30023,2153,256.6,1568.4,https://realestate.usnews.com/places/pennsylvania/scranton
+99,Daytona Beach,FL,623675,38710,80.1° / 61.6°,47.1,192817,49.6 inches,0.037,990,25.4 minutes,0.507,28478,1686,354.8,2483.7,https://realestate.usnews.com/places/florida/daytona-beach
+100,Baltimore,MD,2792050,56400,65.0° / 45.1°,38.3,248833,41.9 inches,0.042,1220,30.8 minutes,0.518,146692,11375,782.5,2732.9,https://realestate.usnews.com/places/maryland/baltimore
+101,Killeen,TX,432797,41770,N/A,31.1,155500,N/A,0.04,888,21.1 minutes,0.458,24003,1674,424.3,2327.7,https://realestate.usnews.com/places/texas/killeen
+102,Philadelphia,PA,6065644,54940,64.6° / 47.1°,38.6,200142,41.5 inches,0.042,1075,29.5 minutes,0.527,382095,28337,428.7,2055.3,https://realestate.usnews.com/places/pennsylvania/philadelphia
+103,Virginia Beach,VA,1717708,47410,68.2° / 52.0°,35.7,220275,46.5 inches,0.033,1124,24.3 minutes,0.502,93982,6449,330.8,2624.9,https://realestate.usnews.com/places/virginia/virginia-beach
+104,Chicago,IL,9549229,54160,59.0° / 40.7°,37,221983,36.9 inches,0.042,1048,31.6 minutes,0.513,601516,38591,326.6,1979.3,https://realestate.usnews.com/places/illinois/chicago
+105,Corpus Christi,TX,450183,44710,N/A,35.7,,N/A,0.05,940,20.2 minutes,0.493,26464,1824,632,3376.8,https://realestate.usnews.com/places/texas/corpus-christi
+106,Albuquerque,NM,905049,46400,68.7° / 45.4°,37.7,201900,9.5 inches,0.046,850,23.4 minutes,0.537,52087,3439,1084.9,5498.9,https://realestate.usnews.com/places/new-mexico/albuquerque
+107,Los Angeles,CA,18585594,53803,69.0° / 56.2°,35.9,526214,12.8 inches,0.042,1362,30.4 minutes,0.524,1212805,59907,459,2363,https://realestate.usnews.com/places/california/los-angeles
+108,Beaumont,TX,408663,47900,N/A,36.9,,N/A,0.062,797,22.3 minutes,0.498,22310,1586,551.4,1745.5,https://realestate.usnews.com/places/texas/beaumont
+109,Baton Rouge,LA,828741,44500,78.9° / 57.9°,34.9,179350,60.7 inches,0.043,873,26.6 minutes,0.544,56600,3525,546.8,3927.8,https://realestate.usnews.com/places/louisiana/baton-rouge
+110,El Paso,TX,838527,38610,77.4° / 51.6°,31.9,151300,9.7 inches,0.043,789,23.4 minutes,0.505,61827,3838,356.3,1686.6,https://realestate.usnews.com/places/texas/el-paso
+111,Jackson,MS,578565,42770,75.5° / 53.6°,36,,54.1 inches,0.041,838,24.4 minutes,0.531,34523,2492,337.7,1909,https://realestate.usnews.com/places/mississippi/jackson
+112,McAllen,TX,839539,36380,85.9° / 65.2°,28.9,,22.2 inches,0.066,699,21.9 minutes,0.464,67303,4664,292.9,2498.4,https://realestate.usnews.com/places/texas/mcallen
+113,Miami,FL,6019790,46860,84.3° / 70.0°,40.7,247113,61.9 inches,0.037,1232,28.9 minutes,0.542,346419,20669,458.2,3076.4,https://realestate.usnews.com/places/florida/miami
+114,New Orleans,LA,1260660,43310,78.2° / 61.1°,37.7,193575,62.5 inches,0.045,947,25.8 minutes,0.56,83201,6083,564,2948.1,https://realestate.usnews.com/places/louisiana/new-orleans
+115,Flint,MI,410881,45820,N/A,40.1,121900,N/A,0.051,738,26.0 minutes,0.529,25533,1301,713.2,1905,https://realestate.usnews.com/places/michigan/flint
+116,Brownsville,TX,420201,35240,N/A,31.4,,N/A,0.062,683,20.2 minutes,0.478,34160,2635,312.1,2624.3,https://realestate.usnews.com/places/texas/brownsville
+117,Salinas,CA,433168,48290,N/A,33.9,581342,N/A,0.064,1338,22.4 minutes,0.518,23943,1191,411.5,2293.1,https://realestate.usnews.com/places/california/salinas
+118,Memphis,TN,1344058,43950,72.4° / 53.6°,35.9,151900,53.7 inches,0.041,883,24.1 minutes,0.549,78318,5188,1168.3,4176.7,https://realestate.usnews.com/places/tennessee/memphis
+119,Fresno,CA,971616,45510,76.7° / 51.9°,31.8,260733,11.5 inches,0.074,931,22.4 minutes,0.533,63063,2883,582.3,3087.3,https://realestate.usnews.com/places/california/fresno
+120,Modesto,CA,803074,46176,76.0° / 51.3°,32.9,289168,13.1 inches,0.07,1011,27.8 minutes,0.502,55432,2570,595,2934,https://realestate.usnews.com/places/california/modesto
+121,Mobile,AL,414328,43830,N/A,37.3,126976,N/A,0.047,828,24.8 minutes,0.526,26530,1631,619,4539.6,https://realestate.usnews.com/places/alabama/mobile
+122,Shreveport,LA,443974,39400,N/A,36.7,,N/A,0.052,789,21.9 minutes,0.54,27327,1829,606.9,3832.4,https://realestate.usnews.com/places/louisiana/shreveport
+123,Stockton,CA,724153,46770,74.3° / 48.3°,33.9,352350,14.1 inches,0.059,1100,32.0 minutes,0.497,51627,2427,808.6,2935.7,https://realestate.usnews.com/places/california/stockton
+124,Bakersfield,CA,878744,47680,76.8° / 53.5°,31.3,226908,6.5 inches,0.08,933,23.4 minutes,0.506,58261,2435,559.8,3246.6,https://realestate.usnews.com/places/california/bakersfield
+125,San Juan,PR,2193264,29820,86.6° / 75.4°,39.9,,56.4 inches,0.077,502,31.2 minutes,0.608,,,254.7,1093.9,https://realestate.usnews.com/places/puerto-rico/san-juan

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Assignment 8</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <link rel="stylesheet" href="assets/custom.css">
+</head>
+<body>
+<div class="navbar">
+
+  <center>
+    <p style="color: white"> Where to Live? Compare Two Cities</p>
+    <select id="city1" name="cities" class="option1"></select>
+    <select id="city2" name="cities" class="option2"></select>
+  </center>
+
+
+
+
+</div>
+
+<div style="padding-bottom: 100px"></div>
+
+<div class="intro" align="center">
+
+  <b>Motivation:</b><br>
+  The data comes from USNews & Wikipedia that includes weather, house, commute,
+  crime, population, salary and sunshine duration information. I chose these datasets because I thought
+  it originally thought it would be interesting to compare sunlight duration with
+  wellbeing or happiness scores but couldn't find anything related -- so I ended up with
+  this equally cool dataset and with this information, you can easily compare
+  cities and highlight specific ones if you want to! One of my favorite findings is
+  that Seattle only has 1.76 hours of sunlight in December, which is quite depressing :(. Also,
+  Los Angeles has comparably small average salary than expected. Larger salaries also
+  tend to entail a longer commute, upwards of 30 minutes. There's many more interesting
+  things to explore for yourself! Be sure hover over the dots for extra info!
+  </div>
+
+
+<b class="titles">Total Sunshine Duration By Month</b>
+
+<div style="width: 100%">
+  <div style="width: 65%">
+
+  </div>
+  <div style="width: 65%; float:left" id="linechart"></div>
+
+  <div style="width: 30%; float: right; height: 650px; padding-left: 20px ">
+    <b>Get your Vitamin D!</b>
+         <p id="sunshine">
+           If you're seeing this, please reload or pick a city :)
+         </p>
+  </div>
+</div>
+
+
+<div style="width: 100%">
+
+  <div class="VerticalText" style="width:5%;">
+    Avg. Temp (F)
+  </div>
+  <b class="titles">Avg. High and Low Temps (F), Sorted by Avg. Rainfall (2019)</b>
+
+  <div style="width: 65%">
+
+  </div>
+  <div style="width: 65%; float:left" id="rangebar"></div>
+
+    <div style="width: 30%; float: right; height: 650px; padding-left: 20px ">
+      <b>Hows the Weather?</b>
+     <p id="weather">
+       If you're seeing this, please reload or pick a city :)
+     </p>
+    </div>
+  </div>
+</div>
+
+
+<div class="legend" style="padding-top: 610px">Cities</div>
+<br><br>
+<div style="width: 100%">
+
+  <div class="VerticalText" style="width:5%;">
+    Violent Crime
+  </div>
+  <b class="titles">Property Crime vs. Violent Crime (per 100,000 people), by Metro Pop. (2019)</b>
+
+  <div style="width: 65%">
+
+  </div>
+  <div style="width: 65%; float:left" id="scatterplot"></div>
+
+  <div style="width: 30%; float: right; height: 650px; padding-left: 20px ">
+    <b>Is it safe?</b>
+    <p id="crime">
+      If you're seeing this, please reload or pick a city :)
+    </p>
+  </div>
+</div>
+</div>
+
+
+<div class="legend" style="padding-top: 610px">Property Crime</div>
+<br><br>
+
+<div style="width: 100%">
+
+<!--  padding-right going down moves left (or up) /*-->
+
+  <div class="VerticalText" style="width:5%;">
+    Avg. Commute Time (Min)
+  </div>
+  <b class="titles">Med. House Value vs. Avg. Commute Time, by Avg. Salary (2019)</b>
+
+  <div style="width: 65%">
+
+  </div>
+  <div style="width: 65%; float:left;" id="house-scatterplot"></div>
+
+  <div style="width: 30%; float: right; height: 650px; padding-left: 20px ">
+    <b>Can you afford it?</b>
+    <p id="home" style="z-index: -1">
+      If you're seeing this, please reload or pick a city :)
+    </p>
+  </div>
+</div>
+</div>
+
+
+<div class="legend" style="padding-top: 610px">Median House Value (in $)</div>
+<br><br>
+
+
+
+Data is from <a href="https://data.world/dataremixed/125-us-cities-ranked-2019">
+  125 US Cities Ranked (data.world/US News)</a> &
+<a href="https://data.world/makeovermonday/2019w44">Sunshine Duration (data.world/Wikipedia)</a>
+<br>
+Graphs are made by Julia Corfman
+
+<br><br>
+
+
+<script src="javascript/variables.js"></script>
+<script src="javascript/linechart.js"></script>
+<script src="javascript/rangebar.js"></script>
+<script src="javascript/scatterplot.js"></script>
+<script src="javascript/house-scatterplot.js"></script>
+<script src="javascript/select.js"></script>
+
+</body>
+</html>
